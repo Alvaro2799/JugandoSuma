@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+        <recursos>recursos2</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FFFF00</corbanda>
+        <cornavega>02FDF0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Jugando con la suma</titulo>
+        <autor>Melba G</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Muy bien</correcto>
+        <incorrecto son="" modo="1" >Intenta de nuevo</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>suma.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">APRENDAMOS JUGANDO CON LA SUMA Y SUS PROPIEDADES</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>suma.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">ARRASTRA EN CADA EJERCICIO LA RESPUESTA DE LA SUMA</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="605">EjercicioT2_1.JPG</cousa>
+              <cousa nome="1227">EjercicioT2_2.JPG</cousa>
+              <cousa nome="561">EjercicioT2_5.JPG</cousa>
+              <cousa nome="1249">EjercicioT2_3.JPG</cousa>
+              <cousa nome="1030">EjercicioT2_4.JPG</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="5">Ejercicio1.JPG</cousa>
+              <cousa nome="6">Ejercicio2.JPG</cousa>
+              <cousa nome="11">Ejercicio3.JPG</cousa>
+              <cousa nome="5">Ejercicio4.JPG</cousa>
+              <cousa nome="3">Ejercicio5.JPG</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>suma.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="32">ESCRIBE EN CADA RECUADRO LA RESPUESTA A LA SUMA</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="8">EjercicioT_1.JPG</cousa>
+              <cousa nome="7">EjercicioT_2.JPG</cousa>
+              <cousa nome="5">EjercicioT_3.JPG</cousa>
+              <cousa nome="9">EjercicioT_4.JPG</cousa>
+              <cousa nome="8">EjercicioT_5.JPG</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="131">suma1.JPG</cousa>
+              <cousa nome="130">suma2.JPG</cousa>
+              <cousa nome="46">suma3.JPG</cousa>
+              <cousa nome="111">suma4.JPG</cousa>
+              <cousa nome="70">suma5.JPG</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <imaxe>suma.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">PARA CADA SUMA ESCRIBE EL GRUPO AL QUE CORRESPONDE SEGÚN SU RESULTADO</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>47</tipo>
+              <caixa1>6,3,4,5</caixa1>
+              <nome caixa="3">2+2</nome>
+              <nome caixa="2">3+0</nome>
+              <nome caixa="4">1+4</nome>
+              <nome caixa="4">3+2</nome>
+              <nome caixa="1">2+4</nome>
+              <nome caixa="1">3+3</nome>
+        </paxina>
+        <paxina id="10" >
+              <tipo>47</tipo>
+              <caixa1>465,296,134,383</caixa1>
+              <nome caixa="1">340+125</nome>
+              <nome caixa="2">147+149</nome>
+              <nome caixa="3">70+64</nome>
+              <nome caixa="4">189+194</nome>
+              <nome caixa="3">96+38</nome>
+              <nome caixa="1">236+229</nome>
+        </paxina>
+        <paxina id="11" >
+              <tipo>38</tipo>
+              <imaxe>suma.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">RESUELVE LAS SIGUIENTES SUMAS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="12" >
+              <tipo>33</tipo>
+              <modo>1</modo>
+              <forma>0</forma>
+              <numero>2</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="13" >
+              <tipo>26</tipo>
+              <modo>1</modo>
+              <forma>+</forma>
+              <numero>234</numero>
+              <numero>567</numero>
+        </paxina>
+        <paxina id="14" >
+              <tipo>26</tipo>
+              <modo>1</modo>
+              <forma>+</forma>
+              <numero>754</numero>
+              <numero>239</numero>
+        </paxina>
+        <paxina id="15" >
+              <tipo>38</tipo>
+              <imaxe>Propiedades.JPG</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="32">LAS PROPIEDADES DE LA SUMA<br>
+<br>
+<br>
+</font><font color="#000000" face="Arial" size="28">Completa en cada ejercicio el número para que sea correcta la operación</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="16" >
+              <tipo>18</tipo>
+              <modo>1</modo>
+              <completa ant="(25 +   " post=")= (24 + 25 )">24</completa>
+              <completa ant="(36 + 28 +" post=")=117">54</completa>
+              <completa ant="(27+ " post="+23)=165">115</completa>
+              <completa ant="(100+15+" post=")=138">23</completa>
+              <completa ant="(69+" post=")=94">25</completa>
+              <completa ant="(74+79+" post=")=236">83</completa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>38</tipo>
+              <imaxe>suma.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="32">APLICA LAS PROPIEDADES DE LA SUMA PARA RESPONDER LOS EJERCICIOS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="18" >
+              <tipo>26</tipo>
+              <modo>0</modo>
+              <forma>+</forma>
+              <numero>34</numero>
+              <numero>95</numero>
+              <numero>23</numero>
+        </paxina>
+        <paxina id="19" >
+              <tipo>26</tipo>
+              <modo>0</modo>
+              <forma>+</forma>
+              <numero>345</numero>
+              <numero>67</numero>
+              <numero>123</numero>
+        </paxina>
+        <paxina id="20" >
+              <tipo>26</tipo>
+              <modo>0</modo>
+              <forma>+</forma>
+              <numero>25</numero>
+              <numero>34</numero>
+              <numero>45</numero>
+              <numero>21</numero>
+        </paxina>
+        <paxina id="21" >
+              <tipo>26</tipo>
+              <modo>0</modo>
+              <forma>+</forma>
+              <numero>76</numero>
+              <numero>135</numero>
+              <numero>124</numero>
+        </paxina>
+    </libro>
+</lim>
